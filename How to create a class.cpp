@@ -7,3 +7,7 @@ class Student{
 		string name;    //  Attribute (string variable)
 };
 
+int main(){
+	
+	return 0;
+}
